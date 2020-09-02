@@ -16,10 +16,12 @@ for 숫자변수 in 범위:
 """
 
 for i in range(5):
+    # print( 숫자, 문자)
     print( i ,"= 반복 변수")
 print()
 
 for i in range(5, 10):
+    # 문자열 + 문자열
     print(str(i) + "= 반복 변수")
 print()
 
